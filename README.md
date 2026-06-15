@@ -95,3 +95,6 @@ This project demonstrates:
 ## Author
 
 Developed using Swift as a practice project for learning file management and command-line application development.
+
+<img width="292" height="549" alt="To-Do-List--2" src="https://github.com/user-attachments/assets/3d004355-2b90-42ab-ae39-61fce12c9cdc" />
+<img width="367" height="793" alt="To-Do-List--1" src="https://github.com/user-attachments/assets/47292805-e27d-4d02-ab23-50513871e04d" />
